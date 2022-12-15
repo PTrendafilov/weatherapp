@@ -1,0 +1,1 @@
+web gunicord the_weather.wsgi:application --log-file -
